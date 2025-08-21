@@ -50,5 +50,5 @@ scikit-learn documentation
 
 ## Feel free to reach
 <p>sonawaneraj128@gmail.com</p>
-[Pattern Recognition and Machine Learning — Christopher Bishop]
+
 
