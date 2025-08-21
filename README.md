@@ -3,18 +3,18 @@
 ## Machine Learning Repository
 <p>Welcome to the Machine Learning repository! This project serves as a comprehensive introduction and resource hub for classical and modern machine learning concepts, algorithms, and applications.</p>
 
-Table of Contents
-Overview
-What is Machine Learning?
-Types of Machine Learning
-Common Algorithms
-Prerequisites
-Installation
-Usage
-Folder Structure
-Contributing
-License
-References
+## Table of Contents
+<li>Overview</li>
+<li>What is Machine Learning?</li>
+<li>Types of Machine Learning</li>
+<li>Common Algorithms</li>
+<li>Prerequisites</li>
+<li>Installation</li>
+<li>Usage</li>
+<li>Folder Structure</li>
+<li>Contributing</li>
+<li>License</li>
+<li>References</li>
 
 ## Overview
 <p>This repository contains code samples, datasets, and documentation covering foundational algorithms and practical implementations in machine learning. It is intended for beginners, students, and professionals who want a quick reference or starting point for ML projects.</p>
